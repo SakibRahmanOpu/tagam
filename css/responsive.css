@@ -1,0 +1,40 @@
+@media (max-width: 991px){
+    .navbar{
+        background: transparent;
+    }
+    #nav-section {
+        height: 1060px;
+    }
+    #story-section .big-logo{
+       position: relative;
+    }
+    .big-logo img{
+        position: absolute;
+        top: 90px;
+    }
+    #expertise h2{
+        font-size: 26pt;
+    }
+    #expertise p{
+        font-size: 14pt;
+    }
+
+    #expertise .icon {
+        font-size: 90px;
+    }
+    #expertise .text h5{
+        font-size: 17pt;
+    }
+    #expertise .text p{
+        font-size: 15pt;
+        padding: 0 50px;
+    }
+
+    #contact .form1 h3{
+        text-align: center;
+        margin-bottom: 33px!important;
+    }
+   #footer-section {
+       
+   }
+}
